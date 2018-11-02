@@ -40,16 +40,6 @@ nav ul li a:hover {
   background: var(--orange);
 }
 
-nav ul li ul {
-  position: absolute;
-  display: none;
-}
-
-nav ul li:hover ul,
-nav ul li ul li {
-  display: block;
-}
-
 img.headerlogo {
   position: absolute;
   top: 10px;
