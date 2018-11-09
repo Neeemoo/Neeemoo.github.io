@@ -89,7 +89,6 @@ footer {
 }
 
 .mail {
-  border-bottom: 1px solid var(--orange);
   color: var(--orange);
   text-decoration: none;
   position: relative;
@@ -97,6 +96,5 @@ footer {
 }
 
 .mail:hover {
-  color: var(--darkgrey);
-  background: var(--orange);
+  color: var(--white);
 }
